@@ -1,8 +1,5 @@
 # Python | Hollywood Analysis
 ###  *Just IT Assignment 2*
-Excel and Tableau task to format and visualise data on GDP of different countries. Data was provided by Just IT, a training institute, as part of an assignment during a Data Technician training bootcamp. Thw task included sorting and filtering out the data and creating macros for key functions. Data was then visualised using Tableau. Also included is a report, this was generated from the formatted excel data and using the relevant macros.
+Python and PowerBI task to clean and analyse the perfomance of Hollywood films and studios over the period 2007-2011. The data inluded studios and the films the released during this period, their ratings and finacials. Initial explanatory alaysis included uploading the data onto Python and performing data cleaning: checking for missing values, removing any missing values and renaming columns. This new data was then utilised for the PowerBI dashboard. 
 
-**Client Requirements -**
-
-  1. Format data to include only the top 20 ranked countries and in Sterling Pound(£)
-  2. Accessibility: client in colour-blind
+Data Source: [InformationIsBeautiful.net](https://informationisbeautiful.net/)
